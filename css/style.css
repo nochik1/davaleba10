@@ -8,6 +8,23 @@
     margin-top: 50px;
 
 }
+.info-box{
+    width: 350px;
+
+}
+.info-box h6{
+    font-size: 14px;
+    font-weight: bold;
+    color: #5863f8;
+    margin-bottom: 18px;
+}
+.info-box h2{
+    font-size: 42px;
+    font-weight: 400;
+    color: black;
+    line-height: 56px;
+    margin-bottom: 50px;
+}
 .myform {
     display: flex;
     flex-direction: row;
@@ -47,7 +64,6 @@
     width: 100%;
     height: 60px;
     padding: 24px 20px;
-    text-align: center;
 }
 input[type=submit] {
     font-size: 14px;
@@ -59,4 +75,8 @@ input[type=submit] {
     line-height: 16px;
     font-style: normal;
     padding: 20px 20px;
+}
+.input1{
+    background-color: #101dd8;
+    color: white;
 }
