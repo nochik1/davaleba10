@@ -1,0 +1,22 @@
+@media (max-width: 1200px) {
+    .container{
+        width: 90%;
+    }
+}
+@media (max-width: 750px) {
+    .info-box {
+        width: 100%;
+    }
+    .info-box > h2, h6 {
+        text-align: center;
+    }
+    .myform{
+        flex-direction: column;
+    }
+    .textarea-box {
+        margin-bottom: 20px;
+    }
+    .infut-box {
+        max-width: 100%;
+    }
+}
